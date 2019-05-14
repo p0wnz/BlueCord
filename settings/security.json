@@ -1,0 +1,13 @@
+{
+    "allow-guest-tosite":false,
+    "allow-user-login":false,
+    "allow-user-register":false,
+    "allow-ip-blacklist":false,
+    "allow-ip-whitelist":false,
+    "ip-blacklist":[],
+    "ip-whitelist":[],
+    "allow-http":false,
+    "allow-guest-view-content": false,
+    "allow-guest-write-page":false,
+    "allow-user-create-group":false
+}

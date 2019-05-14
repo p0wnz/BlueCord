@@ -1,0 +1,8 @@
+{
+    "index.php":"content/00001.php",
+    "00001.php":"",
+    "login.php":"content/00002.php",
+    "00002.php":"login",
+    "signup.php":"content/00001.php",
+    "00003.php":"signup"
+}

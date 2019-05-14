@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="301mm"
+   height="154mm"
+   viewBox="0 0 301 154"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="icon_rectangle_big_nobackground.svg">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 148.50009 : 1"
+       inkscape:vp_y="0 : 999.99992 : 0"
+       inkscape:vp_z="209.99986 : 148.50009 : 1"
+       inkscape:persp3d-origin="104.99998 : 98.99999 : 1"
+       id="perspective817" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="786.7935"
+     inkscape:cy="340.34184"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="1147"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="cordteeth"
+     transform="translate(0,-143)">
+    <rect
+       style="fill:#efef00;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect840"
+       width="10.423512"
+       height="37.150467"
+       x="16.965401"
+       y="250.87076"
+       ry="5.2117558" />
+    <rect
+       style="fill:#efef00;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect840-0"
+       width="10.423512"
+       height="37.150467"
+       x="45.162346"
+       y="251.00438"
+       ry="5.2117558" />
+  </g>
+  <g
+     inkscape:label="cordhead"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-143)">
+    <rect
+       style="fill:#1e90ff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect815"
+       width="64.679222"
+       height="39.288624"
+       x="4.6602778"
+       y="216.39299" />
+    <rect
+       style="fill:#1e90ff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect833"
+       width="64.679222"
+       height="31.805073"
+       x="4.6602778"
+       y="196.88251"
+       ry="12.275641" />
+    <rect
+       style="fill:#8cc7ff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect835"
+       width="73.766396"
+       height="10.690781"
+       x="0.42694458"
+       y="255.68161"
+       ry="5.3453903" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="BlueWire"
+     transform="translate(0,-143)">
+    <path
+       style="fill:none;stroke:#1e90ff;stroke-width:8.76500034;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 39.196752,199.32356 c 0,0 49.979404,-90.33755 71.628308,-30.20156 21.64895,60.13574 -13.363534,119.73685 -13.363534,119.73685 0,0 49.712384,12.82893 59.334144,-10.42351 9.62172,-23.25245 -33.67614,-52.91937 -33.67614,-52.91937 0,0 102.09715,-66.283 -8.01814,-44.36678"
+       id="path857"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscscc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="210.91072"
+       y="151.1012"
+       id="text877"><tspan
+         sodipodi:role="line"
+         id="tspan875"
+         x="210.91072"
+         y="160.7567"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="196.54761"
+       y="148.07738"
+       id="text881"><tspan
+         sodipodi:role="line"
+         id="tspan879"
+         x="196.54761"
+         y="157.73288"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20.49482727px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1e90ff;fill-opacity:1;stroke:none;stroke-width:0.51237065"
+       x="158.84296"
+       y="284.0354"
+       id="text853"
+       transform="scale(0.96254626,1.0389111)"><tspan
+         sodipodi:role="line"
+         id="tspan851"
+         x="158.84296"
+         y="284.0354"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:98.37516785px;font-family:'Lucida Calligraphy';-inkscape-font-specification:'Lucida Calligraphy, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1e90ff;stroke-width:0.51237065">lue</tspan></text>
+  </g>
+</svg>

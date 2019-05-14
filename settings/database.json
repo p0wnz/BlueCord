@@ -1,0 +1,10 @@
+{"database-name":"bluetest",
+"database-server":"127.0.0.1",
+"database-username":"root",
+"database-password":"",
+"accounts-table-name":"blue_accounts",
+"pages-table-name":"blue_pages",
+"categories-table-name":"blue_categories",
+"media-table-name":"blue_media",
+"group-table-name":"blue_group",
+"menu-table-name":"blue_menu"}

@@ -1,0 +1,19 @@
+{
+    "current-directory":false,
+    "set-site-maintence":true,
+    "set-site-404":true,
+    "maintence-page":"",
+    "404-page":"",
+    "max-pages-per-user":0,
+    "site-description":"",
+    "site-name":"Bluecord",
+    "site-Company":"QuackMega",
+    "site-address":"http://192.168.0.108:8080/bluecord/",
+    "site-settings-folder":"C:\\xampp\\htdocs\\bluecord\\settings",
+	"site-comment-folder":"C:\\xampp\\htdocs\\bluecord\\comments",
+    "site-content-folder":"C:\\xampp\\htdocs\\bluecord\\content",
+    "site-plugin-folder":"C:\\xampp\\htdocs\\bluecord\\plugins",
+    "site-folder":"C:\\xampp\\htdocs\\bluecord\\",
+    "site-login-page" : "content\\00002.php"
+
+}

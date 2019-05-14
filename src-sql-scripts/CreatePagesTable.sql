@@ -1,0 +1,21 @@
+create table Blue_Pages(
+   	id int(11) not null primary key AUTO_INCREMENT,
+   	Title varchar(255) not null,
+   	Content_URL varchar(255) not null,
+	Aurthor varchar(255) not null,
+	prevlidge int(1) not null,
+	DateCreated  DATETIME DEFAULT  CURRENT_TIMESTAMP,
+	DateModified  DATETIME DEFAULT  CURRENT_TIMESTAMP,
+	Views int(11) DEFAULT 0 not null,
+	Activated TINYINT(1)  DEFAULT 0 not null,
+	ID_READ varchar(255) not null,
+	ID_WRITE varchar(255) not null,
+	Keywords varchar(255) not null,
+	CommentID varchar(255) not null,
+	Likes int(11) DEFAULT 0 not null,
+	Dislikes int(11) DEFAULT 0 not null,
+	isOnRecm TINYINT(1)  DEFAULT 0 not null,
+	isOnMenus TINYINT(1)  DEFAULT 0 not null,
+	link varchar(255) not null,
+	Categories varchar(255) not null
+	);

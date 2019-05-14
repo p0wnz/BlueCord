@@ -1,0 +1,13 @@
+{
+    "allow-mobile-theme":false,
+    "theme" : "bootstrap",
+    "theme-mobile":"",
+    "theme-css" : "themes/bootstrap.min.css",
+    "theme-mobile-css":"",
+    "show-Images":false,
+    "show-Videos":false,
+    "show-Menus":false,
+    "show-Header":false,
+    "show-logo":false,
+    "logo":"logo.png"
+}

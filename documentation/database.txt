@@ -1,0 +1,20 @@
+ids
+account ids start with 1000000
+pages ids start with 2000000
+menu ids start with 3000000
+categories ids start with 4000000
+group ids start with 5000000
+media ids start with 6000000
+
+Menu types
+static
+dynamic-mostviewed
+dynamic-random
+dynamic-new
+dynamic-userrelated
+dynamic-group-related
+
+permission
+you have permission if your number is bigger than the objects allowed permission
+
+sha256 used for password hashes
